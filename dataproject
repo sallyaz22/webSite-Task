@@ -1,0 +1,137 @@
+font:Be Vietnam Pro
+color nav --  var(--grey-15, #262626)
+var(--orange-50, #FF9500)
+
+section 1
+Unlock Your Creative Potential --> unlock = span
+with Online Design and Development Courses.
+Learn from Industry Experts and Enhance Your Skills.
+Explore Courses -> a href
+View Pricing -> a hred
+
+*** section Benefits ***
+Benefits h2
+Lorem ipsum dolor sit amet consectetur. Tempus tincidunt etiam eget elit id imperdiet et. Cras eu sit dignissim lorem nibh et. Ac cum eget habitasse in velit fringilla feugiat senectus in.
+View All -> a href
+01 
+Flexible Learning Schedule --> h2
+Fit your coursework around your existing commitments and obligations. -->p
+02
+Expert Instruction --> h2
+Learn from industry experts who have hands-on experience in design and development. -->p
+03
+Diverse Course Offerings--> h2
+Explore a wide range of design and development courses covering various topics. --> p
+04
+Updated Curriculum h2
+Access courses with up-to-date content reflecting the latest trends and industry practices. --> p
+05
+Practical Projects and Assignments --> h2
+Develop a portfolio showcasing your skills and abilities to potential employers. --> p
+06
+Interactive Learning Environment -- > h2
+Collaborate with fellow learners, exchanging ideas and feedback to enhance your understanding. -- >p
+
+*** section Our Courses ***
+img -- 4 Weeks span / Beginner span / By John Smith
+Web Design Fundamentals h4
+Learn the fundamentals of web design, including HTML, CSS, and responsive design principles. Develop the skills to create visually appealing and user-friendly websites. --p
+Get it Now --> a href
+
+img -- 6 Weeks / Intermediate / By Emily Johnson
+UI/UX Design h4
+Master the art of creating intuitive user interfaces (UI) and enhancing user experiences (UX). Learn design principles, wireframing, prototyping, and usability testing techniques.
+Get it Now --> a href
+
+img -- 8 Weeks / Intermediate / By David Brown
+Mobile App Development h4 
+Dive into the world of mobile app development. Learn to build native iOS and Android applications using industry-leading frameworks like Swift and Kotlin -- p
+Get it Now --> a href
+
+img -- 10 Weeks / Beginner / By Sarah Thompson
+Graphic Design for Beginners -- > h4
+Discover the fundamentals of graphic design, including typography, color theory, layout design, and image manipulation techniques. Create visually stunning designs for print and digital media.
+Get it Now --> a href
+
+
+10 Weeks / Intermediate / By Michael Adams
+Front-End Web Development -- > h4
+Become proficient in front-end web development. Learn HTML, CSS, JavaScript, and popular frameworks like Bootstrap and React. Build interactive and responsive websites.
+Get it Now --> a href
+
+img / 6 Weeks/ Advance / By Jennifer Wilson
+Advanced JavaScript -- > h4
+Take your JavaScript skills to the next level. Explore advanced concepts like closures, prototypes, asynchronous programming, and ES6 features. Build complex applications with confidence. 
+Get it Now --> a href
+
+*** section Our Testimonials ***
+Our Testimonials h2
+p /
+The web design course provided a solid foundation for me. The instructors were knowledgeable and supportive, and the interactive learning environment was engaging. I highly recommend it!
+*** border line ***
+img Sarah L -- Read Full Story --> span
+
+The UI/UX design course exceeded my expectations. The instructor's expertise and practical assignments helped me improve my design skills. I feel more confident in my career now. Thank you!
+*** border line ***
+img Jason M -- Read Full Story --> span & a href
+
+The mobile app development course was fantastic! The step-by-step tutorials and hands-on projects helped me grasp the concepts easily. I'm now building my own app. Great course!
+*** border line ***
+Emily R -- Read Full Story
+
+I enrolled in the graphic design course as a beginner, and it was the perfect starting point. The instructor's guidance and feedback improved my design abilities significantly. I'm grateful for this course!
+*** border line ***
+Michael K -- Read Full Story
+
+section Our Pricing 
+p
+Free Plan
+$0 month
+Available Features
+Access to selected free courses.
+Limited course materials and resources.
+Basic community support.
+No certification upon completion.
+Ad-supported platform.
+Access to exclusive Pro Plan community forums.
+Early access to new courses and updates.
+
+Pro Plan
+$79/month
+Available Features
+Unlimited access to all courses.
+Unlimited course materials and resources.
+Priority support from instructors.
+Course completion certificates.
+Ad-free experience.
+Access to exclusive Pro Plan community forums.
+Early access to new courses and updates.
+
+*** section footer ***
+logo
+hello@skillbridge.com
++91 91813 23 2309
+
+Home
+Benefits
+Our Courses
+Our Testimonials
+Our FAQ
+
+About Us
+Company
+Achievements
+Our Goals
+
+Social Profiles
+
+© 2023 Skillbridge. All rights reserved. -> text align:center
+
+:root{
+--dark-blue:hsl(243, 87%, 12%);
+--desaturated-blue:hsl(238, 22%, 44%);
+--bright-blue:hsl(224, 93%, 58%);
+--light-gray-blue:hsl(240, 75%, 98%);
+
+}
+
