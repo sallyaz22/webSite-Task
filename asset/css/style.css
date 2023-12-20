@@ -823,12 +823,19 @@ header {
     overflow: visible;
   }
 }
+@media screen and (min-width: 600px) {
+  .slide .row img {
+    width: 100%;
+    border-radius: 35px;
+    overflow: visible;
+  }
+}
 @media screen and (min-width: 320px) and (max-width: 600px) {
   /* media phone*/
-
   .slide {
     padding: 10px;
     width: 100%;
+    overflow-x: hidden;
   }
   .slide .row {
     padding: none;
@@ -882,6 +889,7 @@ header {
   cursor: pointer;
   background-color: var(--absolute-white);
   border: 1px solid var(--absolute-white);
+  border-radius: 5px;
 }
 .row .card-benefits {
   width: calc((100% - 60px) / 3);
@@ -1071,6 +1079,12 @@ header {
     flex-direction: column;
     align-items: start;
     width: 100%;
+  }
+  .info-benefits p {
+    width: 100%;
+    padding: 5px 15px;
+    line-height: 1.6;
+    font-size: 17px;
   }
   .card-benefits .card-data {
     width: calc((100% - 20px) / 2);
@@ -1866,6 +1880,10 @@ header {
   width: 25px;
   padding: 5px;
 }
+.pricing-features .icon-wrong {
+  background: var(--absolute-white);
+  border-radius: 4px;
+}
 .pricing-features p {
   color: var(--gry-30);
   font-size: 17px;
@@ -2359,4 +2377,3 @@ footer {
 /*** End M E D I A Q U E R Y***/
 /*** End Footer ***/
 /*** End project ***/
-
